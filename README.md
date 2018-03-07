@@ -1,4 +1,4 @@
-# springboot_basic_student
+# Springboot_basic_student
 
 Created first basic springboot project which has a student fake database. On top of student db i have created forllowing api
 ---------------------------------------------------------
